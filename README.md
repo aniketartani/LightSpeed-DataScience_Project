@@ -25,7 +25,7 @@ Which product is mainly targeting towards which kind/Class/age of audience?<br>
 <h2>Our Team</h2>
 <ul>
   <li><a href="https://github.com/aniketartani">Aniket Artani-Data Analyst</a></li>
-  <li><a href="https://github.com/parthvik">Parthwick Ajmera-statistician</a></li>
+  <li><a href="https://github.com/parthvik">Parthvik Ajmera-statistician</a></li>
   <li><a href="https://github.com/Sr7-Rastogi">Shubh Rastogi-Data Engineer</a></li>
   </ul>
   </h2>
